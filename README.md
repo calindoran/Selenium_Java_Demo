@@ -1,3 +1,3 @@
 # Selenium Java Demo #
- Basic webdriver for automated testing with Selenium, written in Java.
+ Basic webdriver for automated testing with Selenium on the Amazon.com, written in Java.
 
